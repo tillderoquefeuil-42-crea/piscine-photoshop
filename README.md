@@ -1,6 +1,9 @@
 # piscine-photoshop
 Several advanced exercises in photoshop of the 42 creation course.
 
+## e-learning
+[Find e-learning here](https://github.com/tillderoquefeuil/piscine-photoshop/tree/master/e-learning)
+
 ## day00
 
 ### ex00
