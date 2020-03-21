@@ -20,3 +20,8 @@ Several advanced exercises in photoshop of the 42 creation course.
 
 ### ex03
 ![day01 - ex03 - render](https://user-images.githubusercontent.com/29288825/77100585-2a510900-6a16-11ea-8759-0ff8b3bc9c10.png)
+
+## day02
+
+### ex01
+![day02 - ex01 - render](https://user-images.githubusercontent.com/29288825/77235584-6e2f4400-6bb7-11ea-8439-93a899f3c54d.png)
