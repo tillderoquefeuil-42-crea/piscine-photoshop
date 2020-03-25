@@ -25,3 +25,16 @@ Several advanced exercises in photoshop of the 42 creation course.
 
 ### ex01
 ![day02 - ex01 - render](https://user-images.githubusercontent.com/29288825/77235584-6e2f4400-6bb7-11ea-8439-93a899f3c54d.png)
+
+### ex04
+![day02 - ex04 - render](https://user-images.githubusercontent.com/29288825/77590501-2594c500-6eee-11ea-8a7e-f126ebe3364e.png)
+
+## day03
+
+### ex00
+![day03 - ex00 - render](https://user-images.githubusercontent.com/29288825/77590581-570d9080-6eee-11ea-9a56-9c0754c5a9b1.png)
+
+### ex01
+![day03 - ex01 - render](https://user-images.githubusercontent.com/29288825/77590589-5d037180-6eee-11ea-804b-807fe5968380.png)
+
+
